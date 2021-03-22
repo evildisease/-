@@ -9,3 +9,9 @@ github：https://github.com/evildisease/-/blob/master/实验1/最小生成树Pri
 博客：https://blog.csdn.net/zkpj12/article/details/114852623
 
 github：https://github.com/evildisease/-/blob/master/实验2/最短路Floyd算法和Dijkstra算法.cpp
+
+# 实验3
+
+博客：https://blog.csdn.net/zkpj12/article/details/115082638
+
+github：
