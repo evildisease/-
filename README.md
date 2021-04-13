@@ -21,3 +21,10 @@ github：https://github.com/evildisease/-/blob/master/实验3/Search.cpp
 博客：https://blog.csdn.net/zkpj12/article/details/115303372
 
 github：https://github.com/evildisease/-/blob/master/实验4/二分归并排序.cpp
+
+# 实验5
+
+博客：https://blog.csdn.net/zkpj12/article/details/115642814
+
+github：https://github.com/evildisease/-/blob/master/实验5/最近点对.cpp
+
