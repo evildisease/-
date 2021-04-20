@@ -28,3 +28,8 @@ github：https://github.com/evildisease/-/blob/master/实验4/二分归并排序
 
 github：https://github.com/evildisease/-/blob/master/实验5/最近点对.cpp
 
+# 实验6
+
+博客：https://blog.csdn.net/zkpj12/article/details/115874800
+
+github：
