@@ -33,3 +33,9 @@ github：https://github.com/evildisease/-/blob/master/实验5/最近点对.cpp
 博客：https://blog.csdn.net/zkpj12/article/details/115874800
 
 github：https://github.com/evildisease/-/blob/master/实验6/选第k小元素：特定分治策略.cpp
+
+# 实验7
+
+博客：https://blog.csdn.net/zkpj12/article/details/116155754
+
+github:
