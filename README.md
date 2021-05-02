@@ -40,3 +40,8 @@ github：https://github.com/evildisease/-/blob/master/实验6/选第k小元素�
 
 github:https://github.com/evildisease/-/blob/master/实验7/投资问题.cpp
 
+# 实验8
+
+博客：https://blog.csdn.net/zkpj12/article/details/116357256
+
+github：
