@@ -46,3 +46,9 @@ github:https://github.com/evildisease/-/blob/master/实验7/投资问题.cpp
 
 github：https://github.com/evildisease/-/blob/master/实验8/矩阵链的乘法.cpp
 
+# 实验9
+
+博客：https://blog.csdn.net/zkpj12/article/details/116921596
+
+github：
+
