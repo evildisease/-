@@ -52,3 +52,8 @@ github：https://github.com/evildisease/-/blob/master/实验8/矩阵链的乘法
 
 github：https://github.com/evildisease/-/blob/master/实验9/LCS算法和背包算法.cpp
 
+# 实验10
+
+博客：https://blog.csdn.net/zkpj12/article/details/117222717
+
+github:
