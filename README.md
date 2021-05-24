@@ -56,4 +56,4 @@ github：https://github.com/evildisease/-/blob/master/实验9/LCS算法和背包
 
 博客：https://blog.csdn.net/zkpj12/article/details/117222717
 
-github:
+github:https://github.com/evildisease/-/blob/master/实验10/贪心算法和01背包算法.cpp
