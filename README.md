@@ -63,3 +63,9 @@ github:https://github.com/evildisease/-/blob/master/实验10/贪心算法和01�
 博客：https://blog.csdn.net/zkpj12/article/details/117413076
 
 github：https://github.com/evildisease/-/blob/master/实验11/最优前缀编码.cpp
+
+# 实验12
+
+博客：https://blog.csdn.net/zkpj12/article/details/117508997
+
+github：
