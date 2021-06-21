@@ -69,3 +69,11 @@ github：https://github.com/evildisease/-/blob/master/实验11/最优前缀编�
 博客：https://blog.csdn.net/zkpj12/article/details/117508997
 
 github：https://github.com/evildisease/-/blob/master/实验12/图的m着色问题.cpp
+
+# 实验13
+
+github：https://github.com/evildisease/-/blob/master/实验13/《算法竞赛进阶指南》读后感.docx
+
+# 期末大作业
+
+github：https://github.com/evildisease/-/blob/master/期末大作业/bighomework.cpp
